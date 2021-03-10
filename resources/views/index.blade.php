@@ -14,9 +14,6 @@
                     {{__('Old first')}}
                 </option>
             </select>
-            {{--@if(app('request')->input('page'))
-                <input type="hidden" name="page" value="{{ app('request')->input('page') }}">
-            @endif--}}
         </div>
 
     </form>
